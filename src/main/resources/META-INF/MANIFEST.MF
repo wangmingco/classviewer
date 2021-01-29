@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Agent-Class: dev.wangming.classviewer.agent.AgentMain
+Can-Redefine-Classes: false
+Can-Retransform-Classes: false
+Main-Class: dev.wangming.classviewer.ui.Main
